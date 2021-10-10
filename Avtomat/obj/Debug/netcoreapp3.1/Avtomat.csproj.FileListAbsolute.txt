@@ -1,0 +1,14 @@
+C:\Users\Tabriz\source\repos\Avtomat\Avtomat\bin\Debug\netcoreapp3.1\Avtomat.exe
+C:\Users\Tabriz\source\repos\Avtomat\Avtomat\bin\Debug\netcoreapp3.1\Avtomat.deps.json
+C:\Users\Tabriz\source\repos\Avtomat\Avtomat\bin\Debug\netcoreapp3.1\Avtomat.runtimeconfig.json
+C:\Users\Tabriz\source\repos\Avtomat\Avtomat\bin\Debug\netcoreapp3.1\Avtomat.runtimeconfig.dev.json
+C:\Users\Tabriz\source\repos\Avtomat\Avtomat\bin\Debug\netcoreapp3.1\Avtomat.dll
+C:\Users\Tabriz\source\repos\Avtomat\Avtomat\bin\Debug\netcoreapp3.1\Avtomat.pdb
+C:\Users\Tabriz\source\repos\Avtomat\Avtomat\obj\Debug\netcoreapp3.1\Avtomat.csproj.AssemblyReference.cache
+C:\Users\Tabriz\source\repos\Avtomat\Avtomat\obj\Debug\netcoreapp3.1\Avtomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tabriz\source\repos\Avtomat\Avtomat\obj\Debug\netcoreapp3.1\Avtomat.AssemblyInfoInputs.cache
+C:\Users\Tabriz\source\repos\Avtomat\Avtomat\obj\Debug\netcoreapp3.1\Avtomat.AssemblyInfo.cs
+C:\Users\Tabriz\source\repos\Avtomat\Avtomat\obj\Debug\netcoreapp3.1\Avtomat.csproj.CoreCompileInputs.cache
+C:\Users\Tabriz\source\repos\Avtomat\Avtomat\obj\Debug\netcoreapp3.1\Avtomat.dll
+C:\Users\Tabriz\source\repos\Avtomat\Avtomat\obj\Debug\netcoreapp3.1\Avtomat.pdb
+C:\Users\Tabriz\source\repos\Avtomat\Avtomat\obj\Debug\netcoreapp3.1\Avtomat.genruntimeconfig.cache
